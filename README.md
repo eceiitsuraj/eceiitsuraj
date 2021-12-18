@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eceiitsuraj
 - 👀 I’m interested in learning new concepts and application of python
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 21mt0432@ece.iitism.ac.in
 
 <!---
